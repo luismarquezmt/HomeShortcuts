@@ -1,3 +1,8 @@
+Version 1.1 
+
+Se añade nuevas cards en bootstrap5 con enlaces de Python y Javascript.
+Se elimina enlaces fuera de servicio
+
 ```sh
-Home All Shortcuts in Javascript HTML CSS and Bootstrap5 
+Home Shortcuts from Python Javascript HTML CSS in Bootstrap5 
 ```
